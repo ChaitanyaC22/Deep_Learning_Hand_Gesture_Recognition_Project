@@ -25,3 +25,8 @@ The ultimate task is to train a model on the 'train' folder which performs wel
 
 ## Model Overview
 Please refer to the 'DL_Hands_Gesture_Recognition_Project_Writeup.docx' file for detailed model overview.
+
+
+## Jupyter Notebook Viewer
+If you are unable to view or load the jupyter IPython notebook via Github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Deep_Learning_Hand_Gesture_Recognition_Project/blob/chai_main/DL_Hands_Gesture_Recognition_Project.ipynb).
+Thank you!
